@@ -1,5 +1,5 @@
 name: Makefile CI
-    uses: lemniskett/android-kernel-actions@v1.0.0
+run-name: lemniskett/android-kernel-actions@v1.0.0
 
 
 
